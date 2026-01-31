@@ -1,8 +1,8 @@
   
-  # working with GIT and ESM
+  # Working with GIT and ESM
 
 ## Goals
 
 - Understand GIT
 - Understand ESM
-- We are gradually learning big stuff  
+- We are gradually learning big stuffs. 
